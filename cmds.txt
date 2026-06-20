@@ -1,0 +1,1 @@
+Get-ChildItem -Path D:\ -Recurse | Select-Object FullName > D:\list.txt
