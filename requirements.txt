@@ -1,0 +1,8 @@
+groq
+langchain
+langchain-core
+langchain-groq
+python-dotenv
+requests
+pydantic
+typing-extensions
